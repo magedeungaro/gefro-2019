@@ -1,2 +1,2 @@
-Desenvolvido por Magê Deungaro (magedbgt.github.io) 2019
-magedbgt@gmail.com
+A really old freelance project from the times where I just knew some frontend 😸
+https://www.gefro.com.br/
